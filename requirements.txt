@@ -4,3 +4,7 @@ bitsandbytes
 datasets 
 transformers
 torch
+accelerate
+streamlit==1.26
+requests
+streamlit-image-select
