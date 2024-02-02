@@ -3,8 +3,5 @@ langchain
 bitsandbytes 
 datasets 
 transformers
-torch
+torchvision
 accelerate
-streamlit==1.26
-requests
-streamlit-image-select
