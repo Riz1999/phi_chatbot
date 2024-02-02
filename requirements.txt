@@ -5,3 +5,10 @@ datasets
 transformers
 torchvision
 accelerate
+torch==1.10.0+cu113
+torchaudio==0.10.0+cu113
+torchlibrosa==0.0.9
+torchsummary==1.5.1
+torchvision==0.11.1+cu113
+tqdm==4.60.0
+wandb==0.10.29
