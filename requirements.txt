@@ -3,3 +3,4 @@ langchain
 bitsandbytes 
 datasets 
 transformers
+torch
